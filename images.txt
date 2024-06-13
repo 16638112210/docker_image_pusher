@@ -1,2 +1,4 @@
 kubesphere/ks-installer:v3.4.1
 openebs/provisioner-localpv:3.3.0
+csiplugin/snapshot-controller:v4.0.0
+kubesphere/ks-console:v3.4.1
