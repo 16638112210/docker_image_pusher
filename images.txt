@@ -1,1 +1,2 @@
-minio/mc:RELEASE.2019-08-07T23-14-43Z
+kubesphere/devops-tools:ks-v3.4.1
+kubesphere/devops-controller:ks-v3.4.1
