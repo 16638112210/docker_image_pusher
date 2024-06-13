@@ -10,3 +10,5 @@ kubesphere/kube-state-metrics:v2.6.0
 mirrorgooglecontainers/defaultbackend-amd64:1.4
 kubesphere/ks-apiserver:v3.4.1
 kubesphere/ks-controller-manager:v3.4.1
+kubesphere/notification-manager-operator:v2.3.0
+kubesphere/prometheus-operator:v0.55.1
