@@ -1,3 +1,1 @@
-goharbor/redis-photon:v2.5.3
-goharbor/harbor-db:v2.5.3
-goharbor/trivy-adapter-photon:v2.5.3
+goharbor/harbor-jobservice:v2.5.3
