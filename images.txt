@@ -1,2 +1,2 @@
-kubesphere/ks-jenkins:v3.4.0-2.319.3-1
-ghcr.io/dexidp/dex:v2.30.2
+kubesphere/devops-apiserver:ks-v3.4.1
+kubesphere/s2ioperator:v3.2.1
