@@ -1,1 +1,4 @@
-kubesphere/examples-bookinfo-reviews-v1:1.16.2
+bitnami/os-shell:12-debian-12-r22
+bitnami/redis-cluster:7.2.5-debian-12-r0
+bitnami/os-shell:12-debian-12-r22
+bitnami/redis-exporter:1.61.0-debian-12-r0
